@@ -1,2 +1,2 @@
-# SQL-Portfolyo
-SQL Portfolyo
+# SQL Çalışması - 1
+SQL Çalışması - 1
