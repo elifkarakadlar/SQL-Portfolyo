@@ -16,7 +16,7 @@ Bu depo, SQL gelişim sürecim boyunca çalıştığım senaryoların bir koleks
 
 ## 📂 İçerik
 
-Her SQL çalışması ayrı bir GitHub Issues olarak açılmıştır.
+Her SQL çalışması, ayrı bir GitHub Issues olarak açılmıştır.
 
 
 ## 📬 İletişim
