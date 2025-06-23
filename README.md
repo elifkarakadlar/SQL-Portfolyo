@@ -5,3 +5,21 @@ SAP Business One (ERP) danışmanlığında 7 yıllık deneyimimle, "iş süreci
 Kariyerime "İş Analisti" olarak devam etmeyi hedefliyorum.
 
 SQL becerilerimi geliştirmek adına birtakım AI chatbot'ları kullanarak onlardan "rapor talep örnekleri" alıyor ve ardından SQL ile komut yazmaya geçiyorum. Bu çalışmalarımda öğrendiğim fonksiyonları burada paylaşmaya karar verdim.
+# SQL Portfolyo
+
+Bu depo, SQL gelişim sürecim boyunca çalıştığım senaryoların bir koleksiyonudur. Her bir çalışma için çeşitli AI chatbot' larından yararlanıyorum.
+
+## 🎯 Amaç
+
+- SQL pratikleri yapmak
+- Sorgu yazma ve optimizasyon becerilerini geliştirmek
+
+## 📂 İçerik
+
+Her SQL çalışması ayrı bir GitHub Issues olarak açılmıştır.
+
+
+## 📬 İletişim
+
+LinkedIn: [Elif Özdemir](https://www.linkedin.com/in/elifkarakadlar)  
+E-posta: elifkarakadlar@gmail.com
