@@ -21,5 +21,6 @@ Her SQL çalışması, ayrı bir GitHub Issues olarak açılmıştır.
 
 ## 📬 İletişim
 
-LinkedIn: [Elif Özdemir](https://www.linkedin.com/in/elifkarakadlar)  
+LinkedIn: https://www.linkedin.com/in/elifkarakadilar/
+
 E-posta: elifkarakadlar@gmail.com
