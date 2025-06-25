@@ -5,7 +5,7 @@ SAP Business One (ERP) danışmanlığında 7 yıllık deneyimimle, "iş süreci
 Kariyerime "İş Analisti" olarak devam etmeyi hedefliyorum.
 
 SQL becerilerimi geliştirmek adına birtakım AI chatbot'ları kullanarak onlardan "rapor talep örnekleri" alıyor ve ardından SQL ile komut yazmaya geçiyorum. Bu çalışmalarımda öğrendiğim fonksiyonları burada paylaşmaya karar verdim.
-# SQL Portfolyo
+# SQL ve Power BI Portfolyom
 
 Bu depo, SQL gelişim sürecim boyunca çalıştığım senaryoların bir koleksiyonudur. Her bir çalışma için çeşitli AI chatbot' larından yararlanıyorum.
 
