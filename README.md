@@ -13,6 +13,7 @@ Bu kısım, SQL ve Power BI gelişim sürecim boyunca çalıştığım senaryola
 
 - SQL pratikleri yapmak
 - Sorgu yazma ve optimizasyon becerilerini geliştirmek
+- Power BI ile çalışmalar yaparak pratik kazanmak
 
 ## 📂 İçerik
 
