@@ -7,7 +7,7 @@ Kariyerime "İş Analisti" olarak devam etmeyi hedefliyorum.
 SQL becerilerimi geliştirmek adına birtakım AI chatbot'ları kullanarak onlardan "rapor talep örnekleri" alıyor ve ardından SQL ile komut yazmaya geçiyorum. Bu çalışmalarımda öğrendiğim fonksiyonları burada paylaşmaya karar verdim.
 # SQL ve Power BI Portfolyom
 
-Bu depo, SQL ve Power BI gelişim sürecim boyunca çalıştığım senaryoların bir koleksiyonudur. Her bir çalışma için çeşitli AI chatbot' larından yararlanıyorum.
+Bu kısım, SQL ve Power BI gelişim sürecim boyunca çalıştığım senaryoların bir koleksiyonudur. Her bir çalışma için çeşitli AI chatbot' larından ve araştırmalarımdan yararlanıyorum.
 
 ## 🎯 Amaç
 
